@@ -1,0 +1,21 @@
+{
+  "name": "A73 HTML Scrape",
+  "version": "1.0.0",
+  "description": "pulls HTML from ten user-selected sites",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "html",
+    "scraper",
+    "node",
+    "angular"
+  ],
+  "author": "joey atwell",
+  "license": "ISC"
+}
