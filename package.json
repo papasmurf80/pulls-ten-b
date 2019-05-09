@@ -1,5 +1,5 @@
 {
-  "name": "A73 HTML Scrape",
+  "name": "a73-html-scrape",
   "version": "1.0.0",
   "description": "pulls HTML from ten user-selected sites",
   "main": "y",
@@ -14,7 +14,11 @@
     "html",
     "scraper",
     "node",
-    "angular"
+    "angular",
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose"
   ],
   "author": "joey atwell",
   "license": "ISC",

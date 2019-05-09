@@ -1,3 +1,4 @@
+
 const request = require('request');
 const fileName = require('fs');
 
@@ -14,5 +15,3 @@ for (let i = 0; i < tenSites.length; i ++){
     });
 };
 
-// Custom npm command
-// --------------
