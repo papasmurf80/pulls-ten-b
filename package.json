@@ -4,7 +4,7 @@
   "description": "pulls HTML from ten user-selected sites",
   "main": "y",
   "scripts": {
-    "test": "y"
+    "pulls-ten": "node app.js"
   },
   "repository": {
     "type": "git",
