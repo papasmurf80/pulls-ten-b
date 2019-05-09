@@ -21,7 +21,7 @@ for (let i = 0; i < tenSites.length; i ++){
         fileName.createWriteStream("file" + i + ".html");
         console.error('error:', error); //Prints error
         console.log(i + "this works");
-        console.log("body:", body); //prints HTML to console
+        //console.log("body:", body); //prints HTML to console
     });
 };
 
